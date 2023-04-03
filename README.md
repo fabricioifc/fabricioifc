@@ -5,6 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Mestrado em Ciência da Computação** no <a href="http://www.utfpr.edu.br/campus/pontagrossa">UTFPR - Ponta Grossa</a>.
 - 💼 &nbsp; Trabalhando como **Professor de Informática** no <a href="http://videira.ifc.edu.br/">Instituto Federal Catarinense - Campus Videira</a>
+- 🏫 &nbsp; Curriculo Lattes <a href="http://lattes.cnpq.br/9756008111074656">Lattes</a>
 - 🌱 &nbsp; Aprendendo mais sobre **PyThon, PyTorch, Deep Learning**.
 ----
 
