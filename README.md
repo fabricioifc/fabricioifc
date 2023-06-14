@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **PyThon, PyTorch, Deep Learning**.
 ----
 
-## 🚀 Minhas Skills e Preferências
+## 🚀 Minhas Preferências
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -29,4 +29,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioifc&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioifc&show_icons=true&theme=radical)
