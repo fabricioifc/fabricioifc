@@ -28,5 +28,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioifc&show_icons=true&theme=radical)
+[//]: ## ⭐ Informações sobre minha conta GitHub
+[//]: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioifc&show_icons=true&theme=radical)
